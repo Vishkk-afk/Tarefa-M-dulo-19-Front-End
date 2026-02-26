@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import React, { useState } from 'react'
 import CardProduto from './components/CardProduto'
 
 // Dados estáticos dos produtos
